@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "56c72e2b_db956c33",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000542
+      },
+      "writtenOn": "2021-11-19T18:18:26Z",
+      "side": 1,
+      "message": "This is must for booting of Mediatek devices",
+      "revId": "2e3f6948de110f4219fea3c13358e3c7701f2025",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
